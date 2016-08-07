@@ -2,7 +2,7 @@
 The inter-module communication subsystem, built by Uday Shankar for the Monmouth Summer Research Program of 2016.
 
 # Implementation
-Details are [link](implementation.md "here")
+Details are [here](implementation.md)
 
 # Usage
 Documentation doesn't yet exist, but usage of the IMCClient class is what is necessary for modules, and should be fairly self-explanatory looking at the code.
