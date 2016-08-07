@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0bbce69-837f-4c58-9db1-dfed21883700" name="Default" comment="preliminary API complete, summary of implementation in implementation.md">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/implementation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClientTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp16/imc/IMCConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp16/imc/IMCMesType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp16/imc/IMCMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp16/imc/client/IMCClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/srp16/imc/server/IMCServer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/IMCClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/IMCMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/IMCServer.java" afterPath="" />
+    <list default="true" id="d0bbce69-837f-4c58-9db1-dfed21883700" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SRP16-IMC.iws" />
@@ -112,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="implementation.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="implementation.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/implementation.md">
           <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -121,6 +111,22 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="440">
                 <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="106" selection-start-line="8" selection-start-column="106" selection-end-line="8" selection-end-column="106" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -162,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/srp16/imc/server/IMCServer.java" />
         <option value="$PROJECT_DIR$/src/ClientTester.java" />
         <option value="$PROJECT_DIR$/implementation.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -598,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1470106438859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="preliminary API complete, summary of implementation in implementation.md">
+      <created>1470609212374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470609212374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -836,6 +850,20 @@
         <state relative-caret-position="54">
           <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="106" selection-start-line="8" selection-start-column="106" selection-end-line="8" selection-end-column="106" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
